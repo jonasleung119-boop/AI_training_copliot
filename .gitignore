@@ -1,0 +1,16 @@
+# Generated training data
+wiki_dataset.txt
+
+# Trained model output directory
+my_wiki_ai/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# HuggingFace cache
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
